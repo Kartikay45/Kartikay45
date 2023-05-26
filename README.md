@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Kartikay45's GitHub | Stats](https://stats.quine.sh/Kartikay45/github?theme=dark)](https://quine.sh)
+[![Kartikay45's GitHub | Languages Over Time](https://stats.quine.sh/Kartikay45/languages-over-time?theme=dark)](https://quine.sh)
+[![Kartikay45's GitHub | Topics Over Time](https://stats.quine.sh/Kartikay45/topics-over-time?theme=dark)](https://quine.sh)
 
 <!--
 **Kartikay45/Kartikay45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
