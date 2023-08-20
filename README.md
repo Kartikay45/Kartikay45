@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA with Python,Web Development,React,ML and Devops**
 
-- 📝 I regularly write articles on [Finance and ESG(Environment sustainability Goals) problems](Finance and ESG(Environment sustainability Goals) problems)
+- 📝 I regularly write articles on Finance and ESG(Environment sustainability Goals) problems
 
 - 📫 How to reach me **sharma.kartik22a@gmail.com**
 
